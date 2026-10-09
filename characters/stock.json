@@ -1,0 +1,92 @@
+[
+ {
+  "id": "stock:zetterburn",
+  "source": "stock",
+  "name": "Zetterburn"
+ },
+ {
+  "id": "stock:orcane",
+  "source": "stock",
+  "name": "Orcane"
+ },
+ {
+  "id": "stock:wrastor",
+  "source": "stock",
+  "name": "Wrastor"
+ },
+ {
+  "id": "stock:kragg",
+  "source": "stock",
+  "name": "Kragg"
+ },
+ {
+  "id": "stock:forsburn",
+  "source": "stock",
+  "name": "Forsburn"
+ },
+ {
+  "id": "stock:maypul",
+  "source": "stock",
+  "name": "Maypul"
+ },
+ {
+  "id": "stock:absa",
+  "source": "stock",
+  "name": "Absa"
+ },
+ {
+  "id": "stock:etalus",
+  "source": "stock",
+  "name": "Etalus"
+ },
+ {
+  "id": "stock:ori_and_sein",
+  "source": "stock",
+  "name": "Ori and Sein"
+ },
+ {
+  "id": "stock:ranno",
+  "source": "stock",
+  "name": "Ranno"
+ },
+ {
+  "id": "stock:clairen",
+  "source": "stock",
+  "name": "Clairen"
+ },
+ {
+  "id": "stock:sylvanos",
+  "source": "stock",
+  "name": "Sylvanos"
+ },
+ {
+  "id": "stock:elliana",
+  "source": "stock",
+  "name": "Elliana"
+ },
+ {
+  "id": "stock:shovel_knight",
+  "source": "stock",
+  "name": "Shovel Knight"
+ },
+ {
+  "id": "stock:mollo",
+  "source": "stock",
+  "name": "Mollo"
+ },
+ {
+  "id": "stock:hodan",
+  "source": "stock",
+  "name": "Hodan"
+ },
+ {
+  "id": "stock:pomme",
+  "source": "stock",
+  "name": "Pomme"
+ },
+ {
+  "id": "stock:olympia",
+  "source": "stock",
+  "name": "Olympia"
+ }
+]
