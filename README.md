@@ -27,6 +27,8 @@ The two talk through shared memory (`protocol/`). See `docs/DESIGN.md` for the f
 - A way to patch xdelta files, such as [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) or the [online xdelta patcher](https://kotcrab.github.io/xdelta-wasm/)
 
 ## (Release) Installation
+### Download the zip file from the releases tab (it's green and on the right side of your screen!)
+
 ### Pizza Tower:
 - Patch the PTdata.xdelta file onto data.win within your pizza tower local files. The new file also needs to be called data.win, so I suggest naming the original something like "data OG.win" and then patch it.
 - To patch it, you can use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher), there are [online versions](https://kotcrab.github.io/xdelta-wasm/) too if you don't want to download anything.
