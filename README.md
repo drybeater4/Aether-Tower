@@ -60,7 +60,9 @@ I wanted to run down a few quirks that you should know prior to playing.
 -  In the ENEMEY CONFIG, I wouldn't recommended changing anything besides PT KILL PERCENT, which is the amount of damage you have to do to to an enemy before you can do your finishing blow on it, which kills it in pizza tower, if you don't want to combo them and have the enemies one and done, set this to 0.
 - The whole game is playable from start to finish without peppino, though some characters may struggle with the timer, adjust RIVAL SPEED to whatever feels right. 
 - if for some reason you just need to play as Peppino, you can turn RIVALS OFF.
-- Some workshop character's have their percent in the wrong places, idk what's up with that. Some workshop projectiles will also not function, because they may break in the blast zone. 
+- Some workshop character's have their percent in the wrong places, idk what's up with that. Some workshop projectiles will also not function, because they may break in the blast zone.
+- Sometimes you may teleport and get teleported right back, this sucks, but it's what fixed falling out of bounds for the most part.
+- Slopes do not exist in rivals, and thus were hard to implement, they work better than you would think, but sometimes you get stuck on the top of one, just jump, it's no big deal. Enemies and projectiles may ignore slopes or treat them as airbone instead of ground. 
 
 ## AI 
 Yes, this project was vibe coded using Claude Sonnet 5.5 Medium. I did this out of curiosity for those game mashups I've been seeing. **I want to state for the record, that I'm typically against AI, and would never use it for things like images or videos, or any other art where I can reasonably pay someone to achieve it,** but as a miracle machine to combine 2 games in a weekend, yeah, I think it's neat, and theres nothing AI in this project beyond the code. If you yearn for a non-ai campaign in Rivals of Aether, try [Hallowflame](https://steamcommunity.com/sharedfiles/filedetails/?id=2634489514), or fund Rivals 2 Story Mode on [Aether Studio's Patreon](https://www.patreon.com/cw/StudiosofAether). 
