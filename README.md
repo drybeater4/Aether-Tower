@@ -69,6 +69,8 @@ I wanted to run down a few quirks that you should know prior to playing.
 ## AI 
 Yes, this project was vibe coded using Claude Sonnet 5.5 Medium. I did this out of curiosity for those game mashups I've been seeing. **I want to state for the record, that I'm typically against AI, and would never use it for things like images or videos, or any other art where I can reasonably pay someone to achieve it,** but as a miracle machine to combine 2 games in a weekend, yeah, I think it's neat, and theres nothing AI in this project beyond the code. If you yearn for a non-ai campaign in Rivals of Aether, try [Hallowflame](https://steamcommunity.com/sharedfiles/filedetails/?id=2634489514), or fund Rivals 2 Story Mode on [Aether Studio's Patreon](https://www.patreon.com/cw/StudiosofAether). 
 
+Questions? Suggestions? Complaints? Death Threats? I'm happy to talk! Shoot me a dm on discord @drybeater4
+
 ### You are free to use this project in any other project you want
 ## Layout
 
