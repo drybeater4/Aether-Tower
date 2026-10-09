@@ -44,7 +44,7 @@ The two talk through shared memory (`protocol/`). See `docs/DESIGN.md` for the f
 To play, launch Pizza Tower, and enter the tower, then launch Rivals of Aether. The games should connect and you're good to go. 
 
 ## Music
-Yes, you can have custom **escape and lap 2 music.** Simply edit the `pizzarivals_music.cfg` config, located in your Pizza Tower install folder, it's very easy, you can tell it to play a song from rivals, or any ogg file on your computer, there are examples in there. I've taken the liberty to add in music for the base cast, workshop characters work as well if you add them.
+Yes, you can have custom **escape and lap 2 music.** Simply edit the `pizzarivals_music.cfg` config, located in your Pizza Tower install folder, it's very easy, you can tell it to play a song from rivals, or any ogg file on your computer, there are examples in there. I've taken the liberty to add in music for the base cast, workshop characters work as well if you add them. Tower of Heaven also plays in John Gutter.
 
 Songs are exported on your own machine from your own copy of the game (`tools/roa_sounds.py`); nothing copyrighted is in this repo.
 
@@ -52,6 +52,7 @@ Songs are exported on your own machine from your own copy of the game (`tools/ro
 ## Before You Play + Options
 
 I wanted to run down a few quirks that you should know prior to playing.
+- CHANGE YOUR VOLUME! There are 2 (two) new sliders in the audio menu, one of rivals music, one for rivals sfx, I suggest you change these to match pizza tower so you don't blow your ear drums off. 
 - Kragg may encounter a bug with his hitstun being too high sometimes, this mod works by putting the rival deep below the blast zone, but Kragg's upspecial will always bring him to where it thinks the game is taking place, which caused him to always shoot up to the sky, so he's not operating deep below the blast zone, and if he gets to the top blast zone, the game thinks every hit is devastating, but the tradeoff is that his up special works most of the time.
 - You can dodge under 1 block gaps, some workshop characters are unable to do this, but I found if you wavedash, you can make it through with the ones that have issues. 
 - To progress through levels, you need to hit some things like metal blocks or rats with attacks powerful enough, if your character is a wimp, you can enable WEAK METAL, in the in game Aether Tower settings. 
